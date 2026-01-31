@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I'm Amit Yadav<br><br>**Software Engineer | Debugger Extraordinaire | Performance Optimizer**<br><br>I turn buggy code into buttery-smooth experiences. With a knack for squashing production issues and optimizing web apps, I've reduced downtime by 35% and boosted load times by 30% across real-world applications.<br><br>🔧 **What I Do:**<br>- Build responsive React applications that users actually enjoy<br>- Debug like a detective (mobile & web apps are my crime scenes)<br>- Refactor legacy code into maintainable masterpieces<br>
+#  About Me:
+#  Hi, I'm Amit Yadav<br><br>**Software Engineer | Debugger Extraordinaire | Performance Optimizer**<br><br>I turn buggy code into buttery-smooth experiences. With a knack for squashing production issues and optimizing web apps, I've reduced downtime by 35% and boosted load times by 30% across real-world applications.<br><br>🔧 **What I Do:**<br>- Build responsive React applications that users actually enjoy<br>- Debug like a detective (mobile & web apps are my crime scenes)<br>- Refactor legacy code into maintainable masterpieces<br>
 
 
 ## 🌐 Socials:
